@@ -1,0 +1,30 @@
+﻿<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CarHupApp.Views.NewItemPage"
+             Shell.PresentationMode="ModalAnimated"
+             Title="New Item" Background="#007">
+
+    <ContentPage.Content>
+        <StackLayout Spacing="3" Padding="15">
+            <Label Text="Nombre Solicitud" FontSize="Medium" />
+            <Entry Text="{Binding Text, Mode=TwoWay}" FontSize="Medium" />
+            <Label Text="Nombre Conductor" FontSize="Medium" />
+            <Editor Text="{Binding Description, Mode=TwoWay}" AutoSize="TextChanges" FontSize="Medium" Margin="0" />
+
+            <!-- Las nuevas propiedades -->
+            <Label Text="Describete" FontSize="Medium" />
+            <Entry  Text="{Binding NombreConductor, Mode=TwoWay}" FontSize="Medium" />
+            <Label Text="Dinero" FontSize="Medium" />
+            <Entry Text="{Binding Dinero, Mode=TwoWay}" FontSize="Medium" />
+            <Label Text="Cantidad de Pasajeros" FontSize="Medium" />
+            <Entry Text="{Binding CantidadPasajero, Mode=TwoWay}" FontSize="Medium" />
+
+            <StackLayout Orientation="Horizontal">
+                <Button Text="Cancel" Command="{Binding CancelCommand}" HorizontalOptions="FillAndExpand"></Button>
+                <Button Text="Save" Command="{Binding SaveCommand}" HorizontalOptions="FillAndExpand"></Button>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
+
+

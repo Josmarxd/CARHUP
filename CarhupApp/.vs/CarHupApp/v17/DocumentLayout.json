@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Josmar\\Desktop\\CarHup\\CarHupApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC48020-4AFF-4E97-BB93-B065B21E196B}|CarHupApp\\CarHupApp\\CarHupApp.csproj|c:\\users\\josmar\\desktop\\carhup\\carhupapp\\carhupapp\\carhupapp\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC48020-4AFF-4E97-BB93-B065B21E196B}|CarHupApp\\CarHupApp\\CarHupApp.csproj|solutionrelative:carhupapp\\carhupapp\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC48020-4AFF-4E97-BB93-B065B21E196B}|CarHupApp\\CarHupApp\\CarHupApp.csproj|c:\\users\\josmar\\desktop\\carhup\\carhupapp\\carhupapp\\carhupapp\\login.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{ACC48020-4AFF-4E97-BB93-B065B21E196B}|CarHupApp\\CarHupApp\\CarHupApp.csproj|solutionrelative:carhupapp\\carhupapp\\login.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC48020-4AFF-4E97-BB93-B065B21E196B}|CarHupApp\\CarHupApp\\CarHupApp.csproj|c:\\users\\josmar\\desktop\\carhup\\carhupapp\\carhupapp\\carhupapp\\views\\newitempage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC48020-4AFF-4E97-BB93-B065B21E196B}|CarHupApp\\CarHupApp\\CarHupApp.csproj|solutionrelative:carhupapp\\carhupapp\\views\\newitempage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Josmar\\Desktop\\CarHup\\CarHupApp\\CarHupApp\\CarHupApp\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "CarHupApp\\CarHupApp\\Login.xaml.cs",
+              "ToolTip": "C:\\Users\\Josmar\\Desktop\\CarHup\\CarHupApp\\CarHupApp\\CarHupApp\\Login.xaml.cs",
+              "RelativeToolTip": "CarHupApp\\CarHupApp\\Login.xaml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAiwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:57:40.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "C:\\Users\\Josmar\\Desktop\\CarHup\\CarHupApp\\CarHupApp\\CarHupApp\\Login.xaml",
+              "RelativeDocumentMoniker": "CarHupApp\\CarHupApp\\Login.xaml",
+              "ToolTip": "C:\\Users\\Josmar\\Desktop\\CarHup\\CarHupApp\\CarHupApp\\CarHupApp\\Login.xaml",
+              "RelativeToolTip": "CarHupApp\\CarHupApp\\Login.xaml",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAABgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-24T07:57:26.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewItemPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Josmar\\Desktop\\CarHup\\CarHupApp\\CarHupApp\\CarHupApp\\Views\\NewItemPage.xaml.cs",
+              "RelativeDocumentMoniker": "CarHupApp\\CarHupApp\\Views\\NewItemPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Josmar\\Desktop\\CarHup\\CarHupApp\\CarHupApp\\CarHupApp\\Views\\NewItemPage.xaml.cs",
+              "RelativeToolTip": "CarHupApp\\CarHupApp\\Views\\NewItemPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:36:22.685Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
